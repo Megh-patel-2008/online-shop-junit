@@ -16,3 +16,8 @@ a test class that demonstrates some of the testing functionality. Testing is fur
 discussed in the book.
 
 NOTE: There are several serious errors to be found in these classes.
+ 
+
+Questions:
+
+14.There are 3 methods created: A. CommentTest()  B. setUp  C.tearDown
